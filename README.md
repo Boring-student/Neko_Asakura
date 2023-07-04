@@ -1,30 +1,27 @@
 ﻿## Warning
 The counter has paused, awaiting additional remediation measures, as a result of the excessive traffic and malicious flood of requests.
 
-<div align="center"><img src="static/img/hertaa_github.gif"></div>
+<div align="center"><img src="static/img/1074744029851422831.gif"></div>
 
-<div align="center"><p>The website for Herta, the cutest genius Honkai: Star Rail character out there!</p>
-<p>献给崩坏：星穹铁道最可爱的天才黑塔酱</p></div>
+<div align="center"><p>The website for Neko, the gamer girl Cytus 2 character out there!</p>
+</div>
 
-  [![Chat on Discord](https://img.shields.io/badge/chat-discord-blue?style=flat&logo=discord)](https://discord.gg/yzkEz6xxdM)
+  [![Chat on Discord](https://img.shields.io/badge/chat-discord-blue?style=flat&logo=discord)](https://discord.gg/cytus)
 
-# Herta Kuru | 黑塔转圈圈 | ヘルタクルへ
-[Home Page | 主页 | ホーム ページ](https://duiqt.github.io/herta_kuru)
+# Neko Asakura
+[Home Page](https://boring-student.github.io/Neko_Asakura/)
 
-Herta GIF and art made by | 黑塔 GIF 绘画者 : [@Seseren_kr](https://twitter.com/Seseren_kr) 
+Neko GIF made by someone in Cytus discord and I lost the origin.
+The art the relevant copyright of Cytus 2 belongs to Rayark.
 
-The art the relevant copyright of Honkai: Star Rail belongs to miHoYo/HoYoverse.
-
-角色版权归米哈游所有。
-***
 
 ## Credits
-### Contributers | 贡献者
+### Contributers
 
-<a href="https://github.com/duiqt/herta_kuru/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=duiqt/herta_kuru" />
+<a href="https://github.com/boring-student/Neko_Asakura/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=boring-student/Neko_Asakura" />
 </a>
 
 ### Original Inspration
 
-Thanks KawaiiShadowii and his website [tannhauser.moe](https://tannhauser.moe), where our inspirations and the super-original code from. ([#44](https://github.com/duiqt/herta_kuru/issues/44))
+Thanks duiqt and his website [https://duiqt.github.io/herta_kuru/](https://duiqt.github.io/herta_kuru/), I just fork it and repurpose it for my use.
